@@ -39,6 +39,7 @@ allprojects {
                 browser            : "androidx.browser:browser:${androidxVer}",
                 vectorDrawable     : "androidx.vectordrawable:vectordrawable:${vectorDrawableVer}",
                 transition         : "androidx.transition:transition:${transitionVer}",
+                lifecycleLiveData  : "androidx.lifecycle:lifecycle-livedata-ktx:${lifecycleVer}",
                 lifecycleExtensions: "androidx.lifecycle:lifecycle-viewmodel-ktx:${lifecycleVer}",
                 constraintLayout   : "androidx.constraintlayout:constraintlayout:${constraintVer}",
                 core               : "androidx.core:core:${coreVer}",
